@@ -1,13 +1,4 @@
-#  ______     ______     ______     ______     ______   __     ______     ______
-# /\  ___\   /\  == \   /\  ___\   /\  __ \   /\__  _\ /\ \   /\___  \   /\  ___\
-# \ \ \____  \ \  __<   \ \  __\   \ \  __ \  \/_/\ \/ \ \ \  \/_/  /__  \ \  __\
-#  \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\    \ \_\  \ \_\   /\_____\  \ \_____\
-#   \/_____/   \/_/ /_/   \/_____/   \/_/\/_/     \/_/   \/_/   \/_____/   \/_____/
-
-# Code is licensed under CC-BY-NC-ND 4.0 unless otherwise specified.
-# https://creativecommons.org/licenses/by-nc-nd/4.0/
-# You CANNOT edit this file without direct permission from the author.
-# You can redistribute this file without any changes.
+# license: идите нахуй
 
 import asyncio
 
